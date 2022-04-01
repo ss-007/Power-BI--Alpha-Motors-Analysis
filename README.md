@@ -1,6 +1,6 @@
 # Power BI-Alpha Motors Analysis
 
-Created interactive, immersive dashboards and reports that provide actionable insights and drive business results.Fully functional, fully interactive dashboards made with prime focus on business intelligence
+Created interactive, immersive dashboards and reports that provide actionable insights and drive business results. Fully functional, fully interactive dashboards made with prime focus for business intelligence.
 
 ### Dasboard to view the overall summary of the Company-
 
